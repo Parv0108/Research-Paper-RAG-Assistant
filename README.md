@@ -54,8 +54,8 @@ K --> L[Answer + Citations]
 Clone the repository
 
 ```bash
-git clone https://github.com/Vaishuu-creator/researchmind-rag-assistant.git
-cd researchmind-rag-assistant
+git clone https://github.com/Parv0108/Research-Paper-RAG-Assistant.git
+   cd Research-Paper-RAG-Assistant
 ```
 
 Install dependencies
